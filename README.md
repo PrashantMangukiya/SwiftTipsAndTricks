@@ -1,7 +1,7 @@
 # Swift Tips And Tricks
 Small Tips and Tricks within Swift 2, Xcode 7, iOS 9.
 
-# Index
+# Index (Swift2, iOS9)
 + 001 -
 + 002 - 
 + 003 - 
@@ -13,4 +13,4 @@ Small Tips and Tricks within Swift 2, Xcode 7, iOS 9.
 + 009 - 
 + 010 - 
 
-Coming soon.
+Source code will be added soon.
